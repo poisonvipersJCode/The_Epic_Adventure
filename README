@@ -19,6 +19,14 @@ SOURCE CODE?
 The game runs off of two engines; WCode and JCode. As you might have guessed, WCode is code that is created, modified and entirely moderated by Will, and JCode is code that is created, modified and entirely moderated by Jake. As WCode and JCode both reached 2.0 recently, the "SCP" was produced. The "SCP" is "Source Code Procedures" / "Source Code Protocol" is a simple set of rules. The main one is that for every commit/release, the previous source code of JCode or WCode will be available. For example, if Th...(line truncated)...
 This is for two reasons; one, we maintain the element of surprise for future releases/commits, and two, it ensures that people can develop their own modifications without any new features getting in their way. If we were to edit JCode and commit it, it might mess up the current modification of JCode you're editing. It's all for simplicity, really.
 
+----------
+SEVERITY??
+----------
+
+Red - Game-Breaking Bug. Usually caused by a file that is required for the game to run being missing.
+Amber - May or may not break the game, usually caused when the game is missing a save file. Still untested, still unknown.
+Green - This bug is now fixed and is gone.
+
 -----
 MODS?
 -----
