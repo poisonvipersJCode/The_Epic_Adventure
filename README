@@ -25,3 +25,12 @@ MODS?
 
 It is hoped that in future versions, JCode and WCode will each support modifications. The handling and coding of the said task is still in a very early stage, but will hopefully completed. 
 It will work quite simply; first we will release JCode_MODMAKER_ALPHA and WCode_MODMAKER_ALPHA. In this update, you will simply use the tool to make your mod (composed of entering names and stats into a box), and for the first update(s), it will only allow the creation of new monsters. In the future, it is hoped that more can be made, such as items, rooms and classes.
+
+---------
+BBC BASIC?
+---------
+
+
+Yes, the program runs on BBC Basic for Windows. Here's the link: http://www.bbcbasic.co.uk/bbcwin/bbcwin.html
+However, we suspect it won't work as the program is too big for the free version. 
+I'll commit an .exe soon.
