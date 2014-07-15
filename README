@@ -1,0 +1,27 @@
+Hello and welcome to The Epic Adventure!
+
+---------------------------
+WHAT IS THE EPIC ADVENTURE?
+---------------------------
+
+The Epic Adventure is a simple, fun project that was originally a test for some code back in 2013, but was later made into a full game because of all the open opportunities to show off our knowledge of BBC Basic.
+
+----
+OUR?
+----
+
+Yes, The Poison Vipers are Jake Stringer and Will Thornton, both Computing Students at The Grammar School at Leeds.
+
+------------
+SOURCE CODE?
+------------
+
+The game runs off of two engines; WCode and JCode. As you might have guessed, WCode is code that is created, modified and entirely moderated by Will, and JCode is code that is created, modified and entirely moderated by Jake. As WCode and JCode both reached 2.0 recently, the "SCP" was produced. The "SCP" is "Source Code Procedures" / "Source Code Protocol" is a simple set of rules. The main one is that for every commit/release, the previous source code of JCode or WCode will be available. For example, if Th...(line truncated)...
+This is for two reasons; one, we maintain the element of surprise for future releases/commits, and two, it ensures that people can develop their own modifications without any new features getting in their way. If we were to edit JCode and commit it, it might mess up the current modification of JCode you're editing. It's all for simplicity, really.
+
+-----
+MODS?
+-----
+
+It is hoped that in future versions, JCode and WCode will each support modifications. The handling and coding of the said task is still in a very early stage, but will hopefully completed. 
+It will work quite simply; first we will release JCode_MODMAKER_ALPHA and WCode_MODMAKER_ALPHA. In this update, you will simply use the tool to make your mod (composed of entering names and stats into a box), and for the first update(s), it will only allow the creation of new monsters. In the future, it is hoped that more can be made, such as items, rooms and classes.
