@@ -5,7 +5,7 @@ HOW TO USE THE BUG REPORTER
 REQUESTED LAYOUT
 
 BUG_NUMBER : "One-Up" from last BUG_NUMBER reported.
-SEVERITY (See README.txt for help on severity) : Red/Amber/Green
+SEVERITY (See README for help on severity) : Red/Amber/Green
 DESCRIPTION : Description of the crash.
 
 IF A BUG REPORT HAS BEEN SEEN, IT WILL RECIEVE AN EXTRA TAG BELOW IT:
