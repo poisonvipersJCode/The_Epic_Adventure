@@ -1,0 +1,17 @@
+---------------------------
+HOW TO USE THE BUG REPORTER
+---------------------------
+
+REQUESTED LAYOUT
+
+BUG_NUMBER : "One-Up" from last BUG_NUMBER reported.
+SEVERITY (See README.txt for help on severity) : Red/Amber/Green
+DESCRIPTION : Description of the crash.
+
+IF A BUG REPORT HAS BEEN SEEN, IT WILL RECIEVE AN EXTRA TAG BELOW IT:
+
+RESOLUTION : Description of the resolution to the problem. It will either contain a simple fix, i.e. "unzip the folder" etc, or may include something along the lines of "new commit added, see page for details". More than likely the commit description will include the numbers of the bugs that have been "resolved"/"fixed".
+
+--------------------------
+ALL BUG REPORTS BELOW HERE
+--------------------------
