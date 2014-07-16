@@ -12,7 +12,7 @@ Inside of the repository, you will have noticed three folders, Game Files, JCode
 
 JCode - All of Jake's Code. It will usually contain TheEpicAdventure.bbc, which will be Jake's current modification of the game.
 
-WCode - All of Will's Code. It will also usually contain TheEpicAdventure.bcc, which will be Will's current modification of the game.
+WCode - All of Will's Code. It will also usually contain TheEpicAdventure.bbc, which will be Will's current modification of the game.
 
 When a feature is finalized, then the file in that particular folder, called "Final Changes".
 When it is time, the changes inside that folder will be added to the game, and then added to the main "Game_Files" folder.
