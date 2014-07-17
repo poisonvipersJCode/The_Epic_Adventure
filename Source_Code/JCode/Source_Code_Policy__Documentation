@@ -1,0 +1,11 @@
+--------------------------------------
+HOW WILL THE SOURCE CODE POLICY WORK??
+--------------------------------------
+
+Let's pose a scenario. You've downloaded the Game_Files folder, and modified TheEpicAdventure.bbc. The version of that particular update is, let's say, 2.4. Now JCode commits a new TheEpicAdventure.bbc, which, when downloaded, messes up your code (i.e. a specific function won't work or the engine has some major changes)
+
+So, the Source Code Policy comes into play.
+
+There is another folder - Source Code. Inside of this folder are JCode and WCode folders. If you were to look in JCode, the source code for the previous version of the game would be in there. So, we're not messing up any code. If a new version of the game messes up your code, there'll be the version which didn't mess up your code in there, too. 
+
+Simples.
